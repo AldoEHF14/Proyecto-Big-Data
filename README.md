@@ -5,7 +5,7 @@ Este proyecto fue desarrollado en el contexto de la materia **Datos a Gran Escal
 
 ---
 
-## 🧠 Objetivo del Proyecto
+## 🎯 Objetivo Del Proyecto
 
 El proyecto tiene dos grandes enfoques:
 
@@ -22,7 +22,7 @@ El proyecto tiene dos grandes enfoques:
 
 ---
 
-## 🗂️ Dataset utilizado
+## 🗂️ Dataset Utilizado
 
 - Fuente: [UCI Machine Learning Repository - Iranian Churn Dataset](https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset)
 - Registros: 3,150
@@ -32,7 +32,7 @@ Se realizó un proceso de preparación, limpieza, balanceo y construcción de nu
 
 ---
 
-## 🧪 Metodología aplicada
+## 🧭 Metodología Aplicada
 
 El proyecto siguió las etapas del **ciclo CRISP-DM**:
 
@@ -44,7 +44,7 @@ El proyecto siguió las etapas del **ciclo CRISP-DM**:
 
 ---
 
-## 🧰 Técnicas y modelos aplicados
+## 🛠️ Técnicas Y Modelos Aplicados
 
 Para resolver los problemas de clasificación y predicción se emplearon diversos modelos como:
 
@@ -58,7 +58,7 @@ Para resolver los problemas de clasificación y predicción se emplearon diverso
 
 ---
 
-## 📌 Hallazgos clave
+## 📌 Descripcion General
 
 - Se encontró que los **servicios más usados son los SMS**, especialmente entre ciertos grupos de edad.
 - Las **principales causas de queja** se relacionan con llamadas fallidas y valor del cliente.
@@ -66,7 +66,7 @@ Para resolver los problemas de clasificación y predicción se emplearon diverso
 
 ---
 
-## 🧾 Recomendaciones finales
+## 🧾 Recomendaciones Finales
 
 - Implementar estrategias de marketing **basadas en preferencias de uso**.
 - Mejorar la **gestión de quejas** y reducir fallas en llamadas.
@@ -74,7 +74,7 @@ Para resolver los problemas de clasificación y predicción se emplearon diverso
 
 ---
 
-## 📚 Herramientas utilizadas
+## 📚 Herramientas Utilizadas
 
 - IBM SPSS Modeler
 - Google Docs y Notion para documentación y seguimiento
@@ -83,7 +83,7 @@ Para resolver los problemas de clasificación y predicción se emplearon diverso
 
 ---
 
-## 👨‍👩‍👧‍👦 Integrantes del equipo
+## 👥 Integrantes Del Equipo
 
 - Mario Baltazar Reséndiz  
 - Miguel Etzel García Delgado  
