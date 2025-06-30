@@ -80,14 +80,5 @@ Para resolver los problemas de clasificación y predicción se emplearon diverso
 - Google Docs y Notion para documentación y seguimiento
 - Python (generación de datos sintéticos)
 - Dataset real proporcionado por UCI Machine Learning Repository
-
----
-
-## 👥 Integrantes Del Equipo
-
-- Mario Baltazar Reséndiz  
-- Miguel Etzel García Delgado  
-- Aldo Enrique Hernández Flores  
-- Luis Alberto Soto Zárate  
-- Natalia Victoria Nava
+  
 ---
