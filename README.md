@@ -66,7 +66,7 @@ Para resolver los problemas de clasificación y predicción se emplearon diverso
 
 ---
 
-## 🧾 Recomendaciones Finales
+## 🧾 Recomendaciones
 
 - Implementar estrategias de marketing **basadas en preferencias de uso**.
 - Mejorar la **gestión de quejas** y reducir fallas en llamadas.
