@@ -5,7 +5,7 @@ Este proyecto fue desarrollado en el contexto de la materia **Datos a Gran Escal
 
 ---
 
-## 🎯 Objetivo Del Proyecto
+## 🎯 Objetivo
 
 El proyecto tiene dos grandes enfoques:
 
