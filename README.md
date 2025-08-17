@@ -76,9 +76,9 @@ Para resolver los problemas de clasificación y predicción se emplearon diverso
 
 ## 📚 Herramientas Utilizadas
 
-- IBM SPSS Modeler
-- Google Docs y Notion para documentación y seguimiento
+- IBM SPSS Modeler.
+- Google Docs y Notion para documentación y seguimiento.
 - Python (generación de datos sintéticos)
-- Dataset real proporcionado por UCI Machine Learning Repository
+- Dataset real proporcionado por UCI Machine Learning Repository.
   
 ---
